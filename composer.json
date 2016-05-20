@@ -35,6 +35,6 @@
         "php": ">=5.4.0"
     },
     "autoload": {
-        "psr-0": { "Scrinus\\Api\\Connector\\": "src" }
+        "psr-0": { "Scrinus\\Connector\\": "src" }
     }
 }
