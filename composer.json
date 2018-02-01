@@ -4,7 +4,7 @@
     "type": "library",
     "keywords": ["scrinus", "api", "connector", "php"],
     "homepage": "http://scrinus.com",
-    "license": "SCRINUS",
+    "license": "MIT",
     "authors": [
         {
             "name": "Günther Jedenastik",
